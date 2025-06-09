@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: bisque;
+}
+
+#countLabel {
+  font-size: 10em;
+  font-weight: bold;
+}
+
+.container button {
+  padding: 10px 20px;
+  font-size: 1.5em;
+  border: none;
+  background-color: hsl(0, 59%, 41%);
+  color: #fff;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.25s;
+}
+
+.container button:hover {
+  background-color: hsl(0, 59%, 30%);
+}
