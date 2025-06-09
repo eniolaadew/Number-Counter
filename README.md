@@ -1,6 +1,6 @@
 # 📝 Number Counter
 
-This is a simple program built with Javascript. It is a counter that has an increase and decrease function which update the displayed count in real time.
+This is a simple program built with Javascript. It is a counter that has an increase and decrease function which updates the displayed count in real time.
 
 ---
 
@@ -13,7 +13,7 @@ This is a simple program built with Javascript. It is a counter that has an incr
 ## 🚀 Live Demo
 
 [Click here to try it out](#)  
-_()_
+*(https://eniolaadew.github.io/Number-Counter/)*
 
 ---
 
