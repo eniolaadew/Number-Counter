@@ -12,7 +12,7 @@ This is a simple program built with Javascript. It is a counter that has an incr
 
 ## 🚀 Live Demo
 
-[Click here to try it out](#)  
+![Click here to try it out]
 *(https://eniolaadew.github.io/Number-Counter/)*
 
 ---
